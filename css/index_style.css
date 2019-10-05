@@ -1,0 +1,10 @@
+#rowData a{
+     color:#333232
+}
+#rowData a:hover{
+     text-decoration: none;
+}
+.list-group .list-item a
+{
+ color: rgb(212, 36, 36)
+}
